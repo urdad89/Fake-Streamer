@@ -2,7 +2,7 @@ const keepAlive = require("./server")
 let discord = require('discord.js-selfbot-v11')
 let rpcGenerator = require("discordrpcgenerator")
 const dotenv = require('dotenv');
-const TOKEN = (process.env.TOKEN);
+const TOKEN = (process.env."Njk1OTg3NTQ5MDM4MDUxMzgw.GqlfAy.C28fOnqC8tyeGHUnl-_LdDe4L0abHtL6MuZvEY");
 let client = new discord.Client()
 
 CLIENT_ID = "The bot's client id"
@@ -29,4 +29,4 @@ client.on("ready", () => {
 })
 
 keepAlive()
-client.login(TOKEN)
+client.login("Njk1OTg3NTQ5MDM4MDUxMzgw.GqlfAy.C28fOnqC8tyeGHUnl-_LdDe4L0abHtL6MuZvEY")
